@@ -37,6 +37,10 @@ New files and directories can be made with the Directory Explorer (*browse.php*)
 
 Files can be edited in *edit.php* and then saved.  The raw data can also be displayed in a new tab if you would like to download the code.
 
+### Sending Emails ###
+
+Emails can be sent from any user that the server has permission to send emails as using *email.php*.
+
 ## What Needs Fixing / TODO ##
 
 * Trudge should ideally be one PHP file and not have to rely on so many other files.
